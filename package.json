@@ -24,10 +24,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/merdok/homebridge-webos3.git"
+    "url": "https://github.com/guyshmuely/homebridge-webos3.git"
   },
   "bugs": {
-    "url": "https://github.com/merdok/homebridge-webos3/issues"
+    "url": "https://github.com/guyshmuely/homebridge-webos3/issues"
   },
-  "homepage": "https://github.com/merdok/homebridge-webos3#readme"
+  "homepage": "https://github.com/guyshmuely/homebridge-webos3#readme"
 }
